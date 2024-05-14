@@ -1,0 +1,15 @@
+E:\PetProjects\AppEF\AppEF\bin\Debug\AppEF.exe.config
+E:\PetProjects\AppEF\AppEF\bin\Debug\AppEF.exe
+E:\PetProjects\AppEF\AppEF\bin\Debug\AppEF.pdb
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.csproj.AssemblyReference.cache
+E:\PetProjects\AppEF\AppEF\obj\Debug\MainWindow.g.cs
+E:\PetProjects\AppEF\AppEF\obj\Debug\App.g.cs
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF_MarkupCompile.cache
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF_MarkupCompile.lref
+E:\PetProjects\AppEF\AppEF\obj\Debug\MainWindow.baml
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.g.resources
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.Properties.Resources.resources
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.csproj.GenerateResource.cache
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.csproj.CoreCompileInputs.cache
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.exe
+E:\PetProjects\AppEF\AppEF\obj\Debug\AppEF.pdb

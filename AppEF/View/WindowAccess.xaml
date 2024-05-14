@@ -1,0 +1,17 @@
+﻿<Window x:Class="AppEF.WindowAccess"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppEF"
+        mc:Ignorable="d"
+        Title="Access" Height="234" Width="309">
+    <Grid>
+        <TextBox x:Name="textBoxLog" HorizontalAlignment="Center" Height="30" Margin="0,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="204" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="55,6,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxPass" HorizontalAlignment="Center" Height="30" Margin="0,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="204" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="55,74,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Height="29" Width="99"/>
+        <Button x:Name="bAccess" Content="Access" HorizontalAlignment="Center" Height="40" Margin="0,148,0,0" VerticalAlignment="Top" Width="204" Click="bAccess_Click"/>
+
+    </Grid>
+</Window>
